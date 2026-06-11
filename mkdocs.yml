@@ -1,0 +1,43 @@
+site_name: Zomi Spelling Guide
+site_description: A comprehensive guide to Zomi language spelling, normalization, and writing conventions
+site_author: Zomi Community
+repo_url: https://github.com/YOUR_USERNAME/zomi-website
+repo_name: zomi-website
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: deep purple
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/YOUR_USERNAME/zomi-website
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Quick Guide: ZOMI_SPELLING_EXPLAINED.md
+  - Full Reference: ZOMI_SPELLING_GUIDE.md
