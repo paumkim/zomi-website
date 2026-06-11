@@ -55,6 +55,9 @@ markdown_extensions:
   - toc:
       permalink: true
 
+extra_javascript:
+  - assets/js/header-link.js
+
 nav:
   - Home: index.md
   - Quick Guide: ZOMI_SPELLING_EXPLAINED.md
