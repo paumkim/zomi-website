@@ -15,6 +15,9 @@ Long vowels are **meaning-distinguishing**. Use them when the tone is held longe
 | `taawm` | picking up | `tawm` | less, not enough |
 | `khaai` | hanging, hung on | `khai` | (no other meaning — keep short) |
 | `siing` | shaking, vegetable | `sing` | wood |
+| `daam` | good, healthy, positive | — | — |
+| `khua` | place, country, hometown | — | — |
+| `khuadam` | cool, breezy (khua + dam) | — | — |
 | `doong` | collecting, to collect | `dong` | ask, asking |
 | `paawl` | group (paawl khat) | `pawl` | stripe (zebra stripe) |
 | `ngeen` | fishnet | `ngen` | ask, requesting |
@@ -77,6 +80,16 @@ Long vowels are **meaning-distinguishing**. Use them when the tone is held longe
 | `guuntui` | small stream | smaller than ocean |
 | `hawktui` | sweat | swear water |
 | `teu` | waterfall | fallen water by cliff |
+
+### Greetings
+
+| Phrase | Pronunciation | Meaning | Breakdown |
+|--------|---------------|---------|-----------|
+| `Dammaw?` | Daammaw? (long aa) | Are you well? / How are you? | `daam` (good) + `maw?` (question) |
+| `Damtakin` | — | Slowly, cooly | `dam` + `takin` (adverb) |
+| `Khuadam` | — | Cool, breezy (weather) | `khua` (place) + `dam` (good) |
+
+Note: Spelled `Dammaw?` but pronounced with a long `aa` — `Daammaw?`. The short spelling is standard writing; the long vowel is how it's actually spoken.
 
 **General rule**: If a word has no meaning conflict with another word, **no long vowel needed**. If multiple meanings exist, use long vowels to disambiguate.
 
