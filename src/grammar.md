@@ -1,14 +1,26 @@
 # Zomi Grammar Essentials
 
-## Sentence Structure
+## Sentence Structure — Opposite of English
 
-Zomi follows **Subject-Object-Verb (SOV)** order:
+Zomi follows **Subject-Object-Verb (SOV)** order — the opposite of English (SVO).
+
+> **English:** Subject → Verb → Object  *(I love you)*
+> **Zomi:**   Subject → Object → Verb *(Kei'n nang ka it hi)*
+
+### Examples
 
 ```
 Subject        Object        Verb
 Zeisu'n        mite          hong it hi
 Jesus (subj.)  people        loves
 → "Jesus loves people"
+```
+
+```
+Subject        Object        Verb
+Kei'n          computer      ka zang hi
+I              computer      use
+→ "I use the computer"
 ```
 
 ### The Agentive Marker `'n` / `in`
