@@ -1,7 +1,8 @@
 site_name: Zomi Spelling Guide
-site_description: A comprehensive guide to Zomi language spelling, normalization, and writing conventions
+site_description: Learn to write clean, consistent Zomi (Tedim/Zo). Spelling rules, grammar guide, word lists, example texts, golden textbooks, and free Zomi Bible download.
 site_author: Zomi Community
 site_url: https://paumkim.github.io/zomi-website/
+site_keywords: zomi, tedim, zolai, zomi language, zomi spelling, zo language, tedim bible, zomi grammar, zomi dictionary, zomi writing, chin language, myanmar language
 repo_url: https://github.com/paumkim/zomi-website
 repo_name: zomi-website
 
@@ -74,3 +75,5 @@ nav:
   - 📚 Golden Textbooks: textbooks.md
   - 📖 Golden Lessons: ZOMI_GOLDEN_LESSONS.md
   - 📖 Tedim Bible: tedim_bible.md
+  - 📝 Word Frequency: word_frequency.md
+  - 💬 Common Phrases: phrases.md
