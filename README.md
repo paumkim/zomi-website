@@ -38,3 +38,4 @@ mkdocs gh-deploy --force
 ---
 
 Built for the Zomi community.
+# Trigger deploy
