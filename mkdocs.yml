@@ -57,9 +57,6 @@ markdown_extensions:
   - toc:
       permalink: true
 
-extra_css:
-  - assets/css/search-modal.css
-
 docs_dir: src
 
 extra_javascript:
@@ -74,3 +71,5 @@ nav:
   - Particles & Word Structure: particles.md
   - Numbers: numbers.md
   - Example Texts: examples.md
+  - 📚 Golden Textbooks: textbooks.md
+  - 📖 Golden Lessons: ZOMI_GOLDEN_LESSONS.md
