@@ -86,8 +86,16 @@ Long vowels are **meaning-distinguishing**. Use them when the tone is held longe
 | Phrase | Pronunciation | Meaning | Breakdown |
 |--------|---------------|---------|-----------|
 | `Dammaw?` | Daammaw? (long aa) | Are you well? / How are you? | `daam` (good) + `maw?` (question) |
-| `Damtakin` | — | Slowly, cooly | `dam` + `takin` (adverb) |
+| `Damma` | — | Answer: "well/okay" | Short reply to Dammaw? |
+| `Dammah` | — | Answer with authority/anger | Adding `h` = more powerful tone |
+| `Dam takin` | — | Slowly, cooly | `dam` + `takin` (adverb) |
+| `Lungdam` | — | Happy, grateful | `lung` (heart/mind) + `dam` (good) |
 | `Khuadam` | — | Cool, breezy (weather) | `khua` (place) + `dam` (good) |
+
+**Tone pattern:** Adding `h` to the end of a word makes it more authoritative,
+angry, or powerful — just like `i` vs `ih` and `le` vs `leh`:
+- `Damma` = calm reply | `Dammah` = strong/angry reply
+- `A hoih` = it's good | `A hoih mah` = it's VERY good (emphatic)
 
 Note: Spelled `Dammaw?` but pronounced with a long `aa` — `Daammaw?`. The short spelling is standard writing; the long vowel is how it's actually spoken.
 
