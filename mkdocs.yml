@@ -55,6 +55,9 @@ markdown_extensions:
   - toc:
       permalink: true
 
+extra_css:
+  - assets/css/search-modal.css
+
 extra_javascript:
   - assets/js/header-link.js
 
