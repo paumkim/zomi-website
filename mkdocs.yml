@@ -1,7 +1,7 @@
 site_name: Zomi Spelling Guide
 site_description: A comprehensive guide to Zomi language spelling, normalization, and writing conventions
 site_author: Zomi Community
-repo_url: https://github.com/pauk23/zomi-website
+repo_url: https://github.com/paumkim/zomi-website
 repo_name: zomi-website
 
 theme:
@@ -23,7 +23,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/pauk23/zomi-website
+      link: https://github.com/paumkim/zomi-website
 
 markdown_extensions:
   - pymdownx.highlight:
