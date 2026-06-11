@@ -31,7 +31,7 @@ mkdocs gh-deploy --force
 
 ## Related
 
-- **Zomi Dataset Collector** — `/home/pauk/zomi_dataset/`
+- **Zomi Dataset Collector** — `/zomi_dataset/`
 - **Normalizer** — `normalize/normalizer.py` (merge rules for spelling)
 - **Clean corpus** — `data/zomi_clean.txt`
 
