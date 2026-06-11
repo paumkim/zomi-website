@@ -58,6 +58,8 @@ markdown_extensions:
 extra_css:
   - assets/css/search-modal.css
 
+docs_dir: src
+
 extra_javascript:
   - assets/js/header-link.js
 
