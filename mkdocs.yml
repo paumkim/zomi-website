@@ -7,6 +7,8 @@ repo_name: zomi-website
 
 theme:
   name: material
+  favicon: assets/images/favicon.png
+  logo: assets/images/favicon.png
   palette:
     - media: "(prefers-color-scheme)"
       toggle:
@@ -33,6 +35,7 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.top
+    - search.highlight
     - content.code.copy
     - content.tabs.link
 
@@ -53,6 +56,9 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+
+extra_css:
+  - assets/css/search-modal.css
 
 docs_dir: src
 
