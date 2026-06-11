@@ -14,15 +14,17 @@ This guide documents the Zomi language spelling conventions based on native spea
 - **Number system** — how Zomi numbers build like Lego blocks
 - **Tone of voice** — when to use smooth vs authoritative forms
 
-## Quick Start
+## 📚 Learning Path
 
-New to the guide? Start here:
-
-👉 [Quick Guide for Zomi Speakers](ZOMI_SPELLING_EXPLAINED.md)
-
-Want the full reference?
-
-📖 [Complete Spelling Rules](ZOMI_SPELLING_GUIDE.md)
+| Level | Page | What you'll learn |
+|-------|------|-------------------|
+| 🟢 Beginner | [Intro to Zomi Writing](intro.md) | How Zomi works, the big idea, prefixes vs suffixes |
+| 🟢 Beginner | [Quick Guide](ZOMI_SPELLING_EXPLAINED.md) | Rules for Zomi speakers, shareable |
+| 🟡 Intermediate | [Grammar Essentials](grammar.md) | Sentence structure, tense, questions |
+| 🟡 Intermediate | [Particles & Word Structure](particles.md) | Complete particle reference, chaining |
+| 🔵 Advanced | [Numbers](numbers.md) | Counting system, time expressions |
+| 🔵 Advanced | [Example Texts](examples.md) | Real sentences with full breakdowns |
+| 📖 Reference | [Full Spelling Guide](ZOMI_SPELLING_GUIDE.md) | Complete rules, word lists, pipeline |
 
 ---
 
