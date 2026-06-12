@@ -69,9 +69,10 @@ nav:
   - 📚 Resources:
     - Golden Textbooks: textbooks.md
     - Golden Lessons: ZOMI_GOLDEN_LESSONS.md
-    - Tedim Bible: tedim_bible.md
     - Word Frequency: word_frequency.md
     - Common Phrases: phrases.md
+  - 📖 Laisiangtho:
+    - Tedim Bible (1932): tedim_bible.md
   - 🤖 AI & Future:
     - AI Training Guide: ai_training.md
     - Three Waves of AI: ai_adaptation.md
