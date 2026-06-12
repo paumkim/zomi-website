@@ -1,75 +1,166 @@
-/* ─── Zomi Website — Personal Custom Styles ─────────────────────────────── */
+/* ─── Zomi Website — Zomi-Inspired Theme ──────────────────────────────── */
+/* Colors based on Zomi traditional pride: deep red, gold, black, white     */
 
-/* Brand colors */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@300;400;500;600;700&display=swap');
+
 :root {
-  --zomi-primary: #1a237e;
-  --zomi-accent: #7c4dff;
-  --zomi-warm: #ff6f00;
-  --zomi-divider: 2px solid var(--zomi-accent);
+  --zomi-red: #8B1A1A;
+  --zomi-red-light: #C62828;
+  --zomi-gold: #D4A017;
+  --zomi-gold-light: #F0C75E;
+  --zomi-black: #1A1A2E;
+  --zomi-cream: #FFF8F0;
+  --zomi-mountain: #2D5F7A;
 }
 
-/* Footer */
-.md-footer-meta {
-  background: linear-gradient(135deg, #1a237e 0%, #283593 100%) !important;
+/* ─── HEADER ──────────────────────────────── */
+
+.md-header {
+  background: linear-gradient(135deg, var(--zomi-red) 0%, #5C0E0E 100%) !important;
+  box-shadow: 0 2px 12px rgba(139, 26, 26, 0.3) !important;
 }
 
-/* Homepage hero */
+.md-header__title {
+  font-family: 'Playfair Display', serif !important;
+  font-weight: 700 !important;
+}
+
+/* ─── HEADER TITLE ────────────────────────── */
+
+.md-typeset h1 {
+  font-family: 'Playfair Display', serif !important;
+  font-weight: 900 !important;
+  font-size: 2.8em !important;
+  color: var(--zomi-red) !important;
+  letter-spacing: -0.02em;
+  position: relative;
+}
+
+.md-typeset h1::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 4px;
+  background: linear-gradient(90deg, var(--zomi-gold), var(--zomi-red-light));
+  margin-top: 0.3em;
+  border-radius: 2px;
+}
+
+.md-typeset h2 {
+  font-family: 'Playfair Display', serif !important;
+  color: var(--zomi-red-light) !important;
+}
+
+/* ─── PRIMARY COLOR OVERRIDES ─────────────── */
+
+:root > * {
+  --md-primary-fg-color: var(--zomi-red);
+  --md-primary-fg-color--light: var(--zomi-red-light);
+  --md-primary-fg-color--dark: var(--zomi-black);
+  --md-accent-fg-color: var(--zomi-gold);
+  --md-accent-fg-color--transparent: rgba(212, 160, 23, 0.15);
+}
+
+/* ─── HOME PAGE HERO ──────────────────────── */
+
 .md-typeset h1:first-child {
-  font-size: 2.8em;
-  background: linear-gradient(135deg, #1a237e, #7c4dff);
+  background: linear-gradient(135deg, var(--zomi-red), var(--zomi-gold));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
 }
 
-/* Section dividers */
+/* ─── FONT ────────────────────────────────── */
+
+body, .md-typeset {
+  font-family: 'Inter', -apple-system, sans-serif;
+}
+
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+  font-family: 'Playfair Display', serif !important;
+}
+
+/* ─── TABS / NAVIGATION ───────────────────── */
+
+.md-tabs {
+  background: linear-gradient(135deg, #5C0E0E 0%, var(--zomi-red) 100%) !important;
+}
+
+.md-nav__item .md-nav__link:hover {
+  color: var(--zomi-gold) !important;
+}
+
+.md-nav__item .md-nav__link--active {
+  color: var(--zomi-red) !important;
+  font-weight: 600;
+}
+
+/* ─── FOOTER ──────────────────────────────── */
+
+.md-footer-meta {
+  background: linear-gradient(135deg, var(--zomi-black) 0%, var(--zomi-red) 100%) !important;
+}
+
+.md-footer-copyright {
+  color: rgba(255,255,255,0.8) !important;
+}
+
+/* ─── CUSTOM DIVIDERS ─────────────────────── */
+
 hr {
   border: 0;
   height: 2px;
-  background: linear-gradient(90deg, transparent, var(--zomi-accent), transparent);
+  background: linear-gradient(90deg, transparent, var(--zomi-gold), transparent);
   margin: 2em 0;
 }
 
-/* Blockquote styling — for AI wisdom quotes */
+/* ─── BLOCKQUOTE ──────────────────────────── */
+
 blockquote {
-  border-left: 4px solid var(--zomi-accent);
-  background: rgba(124, 77, 255, 0.05);
+  border-left: 4px solid var(--zomi-gold);
+  background: rgba(212, 160, 23, 0.05);
   padding: 1em 1.5em;
   border-radius: 0 8px 8px 0;
 }
 
-/* Table improvements */
+/* ─── STYLISH TABLES ──────────────────────── */
+
 .md-typeset table:not([class]) {
   border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 
-/* Button-like links in nav */
-.md-nav__link:hover {
-  color: var(--zomi-warm) !important;
-  transition: color 0.2s;
+.md-typeset table:not([class]) th {
+  background: var(--zomi-red);
+  color: white;
+  font-weight: 600;
 }
 
-/* Article cards for AI page */
+/* ─── AI CARDS ────────────────────────────── */
+
 .ai-card {
-  background: rgba(124, 77, 255, 0.05);
-  border: 1px solid rgba(124, 77, 255, 0.2);
-  border-radius: 12px;
+  background: rgba(212, 160, 23, 0.05);
+  border: 1px solid rgba(212, 160, 23, 0.2);
+  border-left: 4px solid var(--zomi-gold);
+  border-radius: 8px;
   padding: 1.5em;
   margin: 1.5em 0;
   transition: transform 0.2s, box-shadow 0.2s;
 }
+
 .ai-card:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(124, 77, 255, 0.15);
-}
-.ai-card h3 {
-  margin-top: 0;
-  color: var(--zomi-accent);
+  box-shadow: 0 6px 20px rgba(212, 160, 23, 0.15);
 }
 
-/* Wave badges */
+.ai-card h3 {
+  margin-top: 0;
+  color: var(--zomi-red);
+}
+
+/* ─── WAVE BADGES ─────────────────────────── */
+
 .wave-badge {
   display: inline-block;
   padding: 0.2em 0.8em;
@@ -78,6 +169,44 @@ blockquote {
   font-weight: bold;
   margin-right: 0.5em;
 }
-.wave-1 { background: #e8f5e9; color: #2e7d32; }
-.wave-2 { background: #fff3e0; color: #e65100; }
-.wave-3 { background: #f3e5f5; color: #6a1b9a; }
+
+.wave-1 { background: #FFEBEE; color: var(--zomi-red); }
+.wave-2 { background: #FFF8E1; color: var(--zomi-gold); }
+.wave-3 { background: #E8EAF6; color: var(--zomi-mountain); }
+
+/* ─── SEARCH ──────────────────────────────── */
+
+.md-search__form {
+  background: rgba(255,255,255,0.15) !important;
+  border-radius: 6px !important;
+}
+
+.md-search__form:hover {
+  background: rgba(255,255,255,0.25) !important;
+}
+
+/* ─── CODE BLOCKS ─────────────────────────── */
+
+.md-typeset code {
+  color: var(--zomi-red);
+  background: rgba(139, 26, 26, 0.06);
+  border-radius: 4px;
+  padding: 0.1em 0.4em;
+}
+
+/* ─── BUTTONS ─────────────────────────────── */
+
+.md-content__button {
+  color: var(--zomi-gold) !important;
+}
+
+/* ─── SCROLLBAR ───────────────────────────── */
+
+::-webkit-scrollbar-thumb {
+  background: var(--zomi-red-light) !important;
+  border-radius: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--zomi-cream) !important;
+}

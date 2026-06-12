@@ -1,6 +1,8 @@
 # Zomi Language Guide
 
-A living, growing reference for the Zomi (Tedim/Zo) language — spelling, grammar, resources, and the vision for a Zomi digital future.
+Zomi aw — i ngaihdanna, i gam, i minam, i kammal.
+
+*A living, growing reference for the Zomi (Tedim/Zo) language — spelling, grammar, resources, and the vision for a Zomi digital future.*
 
 ---
 
@@ -8,7 +10,10 @@ A living, growing reference for the Zomi (Tedim/Zo) language — spelling, gramm
 
 Built by **Paumkim** with a mission: **every language, no matter how small, deserves a digital backbone.**
 
-This site covers:
+Zomi people are proud. We sing about our land. We hold onto our identity across generations and borders. This site is one more thread in that fabric — a place where Zomi spelling, grammar, stories, and now AI, live online for anyone to use.
+
+### What you'll find here
+
 - **Spelling rules** — Write clean, consistent Zomi
 - **Grammar** — Sentence structure, particles, tenses
 - **Resources** — Textbooks, Bible, word frequency
