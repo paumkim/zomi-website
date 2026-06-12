@@ -54,4 +54,4 @@ It's being used to train the first Zomi-speaking AI. You can help.
 
 ---
 
-*Dammah! 🔥*
+*Dammaw! 🔥*
