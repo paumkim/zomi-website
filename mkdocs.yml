@@ -2,7 +2,6 @@ site_name: Zomi Language Guide
 site_description: Learn to write clean, consistent Zomi (Tedim/Zo). Spelling rules, grammar, AI training, and the vision for a Zomi digital future.
 site_author: Paumkim — Zomi Language Preservation
 site_url: https://paumkim.github.io/zomi-website/
-site_keywords: zomi, tedim, zolai, zomi language, zomi spelling, zo language, tedim bible, zomi grammar, zomi ai, cingno ai, chin language
 repo_url: https://github.com/paumkim/zomi-website
 repo_name: zomi-website
 copyright: Copyright &copy; 2026 Paumkim — Built for the Zomi community. Dammah! 🔥
@@ -45,7 +44,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/paumkim
       name: Paumkim on GitHub
-    - icon: fontawesome/brands/hugging-face
+    - icon: fontawesome/solid/robot
       link: https://huggingface.co/paumkim
       name: Paumkim on Hugging Face
     - icon: fontawesome/solid/globe

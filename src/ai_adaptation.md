@@ -115,7 +115,7 @@ The training guide in this website shows that anyone with $10 and a laptop can n
 ## Further Reading
 
 - [AI Training Guide](ai_training.md) — Step-by-step technical guide
-- [Cingno AI Vision](../docs/CINGNO_AI_VISION.md) — The original vision document
+- [Cingno AI Vision](https://github.com/paumkim/zomi-dataset/blob/main/docs/CINGNO_AI_VISION.md) — The original vision document
 - [Zomi Dataset](https://github.com/paumkim/zomi-dataset) — 3M+ lines of Zomi text
 
 ---
