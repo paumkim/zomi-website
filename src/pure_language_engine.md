@@ -164,4 +164,55 @@ When training completes, the model will be available on Hugging Face:
 
 ---
 
+## The Upgrade Cycle — What Lasts and What Changes
+
+A common question: "If I train an adapter now, am I stuck with this base model forever?"
+
+**No.** Here's what stays and what gets replaced when you upgrade:
+
+| What | Stays? | Why |
+|------|--------|-----|
+| **Dataset** (3M+ lines of Zomi) | ✅ **Keep forever** | The irreplaceable core asset |
+| **Training scripts** (`cloud_train.py`) | ✅ **Keep** | Works with any model, just change one line |
+| **Documentation and guides** | ✅ **Keep** | Instruction manual for future runs |
+| **LoRA adapter** (trained now) | ❌ **Replace** | Only works on its specific base model |
+| **Base model** (Qwen 2.5 3B) | ❌ **Swap** | Upgrade to newer model when available |
+
+### How Upgrading Works
+
+When a better base model is released (Qwen 3, Llama 4, etc.):
+
+```
+Step 1: Change one line in cloud_train.py
+        BASE_MODEL = "Qwen/Qwen2.5-3B"  → "Qwen/Qwen3-3B"
+
+Step 2: Run the same training pipeline
+        python cloud_train.py
+
+Step 3: Done — new adapter trained for the new brain
+```
+
+The **pipeline stays the same**. The **dataset stays the same**. Only the base model name changes. Training takes the same ~40 hours and costs ~$60.
+
+### Analogy
+
+Think of it like music production:
+
+| Element | Analogy | Lasts? |
+|---------|---------|--------|
+| **Dataset** | The song composition | ✅ Forever |
+| **Adapter** | A specific studio recording | ❌ Remake with better equipment |
+| **Base model** | The instrument used | ❌ Upgrade to better instrument |
+
+The dataset is your **master recording**. As long as you keep it, you can always produce a better version when better tools come along.
+
+### What This Means for Your Language
+
+- **Invest in the dataset.** It's the only thing that never gets replaced.
+- **Consider the first adapter a prototype.** It proves the approach works.
+- **Upgrade when better base models come out.** The cost is low ($60) and the pipeline is ready.
+- **Your dataset appreciates in value** — better base models mean better results from the same data.
+
+---
+
 *Built from the Zomi AI training session — proof that domain-specific foundation models are the practical path for language preservation.*
