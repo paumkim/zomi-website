@@ -136,9 +136,10 @@ A language community can now build their own AI for the cost of a dinner out. Th
 
 ---
 
-## Built in Practice
+## Built in Practice — The Zomi Proof
 
 This model was trained during a 24-hour session between a human (Paumkim) and an AI agent, using:
+
 - **Dataset:** 3,052,631 lines of Zomi text
 - **Base model:** Qwen 2.5 3B
 - **Method:** QLoRA rank 128
@@ -148,6 +149,18 @@ This model was trained during a 24-hour session between a human (Paumkim) and an
 - **Result:** The first Pure Zomi Language Engine
 
 The dataset took months to collect. The training took one day. The adapter will last forever.
+
+### Download the Model
+
+When training completes, the model will be available on Hugging Face:
+
+<p align="center">
+<a href="https://huggingface.co/paumkim/zomi-qlora-v1" class="button" style="display:inline-block;padding:12px 24px;background:#8B1A1A;color:white;text-decoration:none;border-radius:6px;font-weight:bold;">
+  🤗 Download Zomi Model on Hugging Face
+</a>
+</p>
+
+**Can I upload the full model to GitHub?** GitHub has a file size limit of 2GB per file and recommends Git LFS for larger files. The merged Zomi model is ~6GB, which works with Git LFS but is better suited for Hugging Face — it's built for models, offers free hosting, and lets people test the model right in their browser without downloading. The dataset, scripts, and everything else remain on GitHub.
 
 ---
 
