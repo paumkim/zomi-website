@@ -8,6 +8,7 @@ The complete Tedim/Zomi Bible (Lai Siangtho) translated in 1932.
 
 | Format | Size | Description |
 |--------|------|-------------|
+| [PDF - Full Bible](https://github.com/paumkim/zomi-dataset/raw/main/Sinna/pdf/reference/tedim-laisiangtho-1932.pdf) | 4.3 MB | 1,007 pages, 30,715 verses — printable |
 | [TXT - Full Bible](https://raw.githubusercontent.com/paumkim/zomi-dataset/main/data/tedim1932_verses.txt) | 4.3 MB | One verse per line, raw text |
 | [TXT - Normalized](https://raw.githubusercontent.com/paumkim/zomi-dataset/main/data/tedim1932_normalized.txt) | 4.2 MB | With modern merge rules applied |
 | [TXT - With Book Descriptions](https://raw.githubusercontent.com/paumkim/zomi-dataset/main/data/tedim_xml_normalized.txt) | 4.3 MB | Includes book introductions and section headings |
