@@ -2,60 +2,42 @@
 
 Zomi aw — i ngaihdanna, i gam, i minam, i kammal.
 
-*A living, growing reference for the Zomi (Tedim/Zo) language — spelling, grammar, resources, and the vision for a Zomi digital future.*
+Clean Zomi spelling, grammar, resources, and AI training.
 
 ---
 
-## About This Site
+## Navigation
 
-Built by **Paumkim** with a mission: **every language, no matter how small, deserves a digital backbone.**
-
-Zomi people are proud. We sing about our land. We hold onto our identity across generations and borders. This site is one more thread in that fabric — a place where Zomi spelling, grammar, stories, and now AI, live online for anyone to use.
-
-### What you'll find here
-
-- **Spelling rules** — Write clean, consistent Zomi
-- **Grammar** — Sentence structure, particles, tenses
-- **Resources** — Textbooks, Bible, word frequency
-- **AI Training** — How to teach an AI to speak Zomi
-- **The Vision** — Cingno AI, the three waves of AI adaptation, and why it matters
+- **[Quick Guide](ZOMI_SPELLING_EXPLAINED.md)** — Rules for Zomi speakers
+- **[Full Reference](ZOMI_SPELLING_GUIDE.md)** — Complete spelling guide
+- **[Grammar Essentials](grammar.md)** — Sentence structure, particles, tenses
+- **[Particles & Word Structure](particles.md)** — Complete particle reference
+- **[Numbers](numbers.md)** — Counting system, time expressions
+- **[AI Training Guide](ai_training.md)** — Train an AI to speak Zomi
+- **[Three Waves of AI](ai_adaptation.md)** — AI adaptation and language preservation
 
 ---
 
-## Quick Links
+## The Big Idea
 
-| Topic | Page |
-|-------|------|
-| 🟢 New to Zomi? | [Quick Guide](ZOMI_SPELLING_EXPLAINED.md) |
-| 📖 Complete rules | [Full Spelling Guide](ZOMI_SPELLING_GUIDE.md) |
-| 🤖 Train an AI on Zomi | [AI Training Guide](ai_training.md) |
-| 🌊 AI & Society | [Three Waves of AI Adaptation](ai_adaptation.md) |
-| 📚 Golden textbooks | [Textbooks & Lessons](textbooks.md) |
+Zomi is spoken as chunks but often written as syllables.
+**Merge everything that belongs together.**
 
----
-
-## One Big Idea
-
-Zomi is spoken as single chunks, but often written as separate syllables.
-The secret to clean Zomi writing is: **merge everything that belongs together.**
-
-| Wrong ✗ | Right ✓ |
-|---------|---------|
-| `mi te` | `mite` |
-| `paai ding` | `paaiding` |
-| `om ta` | `omta` |
-| `Zeisu in` | `Zeisu'n` |
-| `ki khawm` | `kikhawm` |
+```
+mi te    →  mite
+paai ding  →  paaiding
+om ta    →  omta
+Zeisu in →  Zeisu'n
+ki khawm →  kikhawm
+```
 
 ---
 
-## The Zomi Dataset
+## Zomi Dataset
 
-The largest Zomi language dataset ever assembled — **3M+ sentences, 211M+ characters, 36K+ unique words.**
+**3M+ sentences · 211M+ chars · 36K+ words**
 
-Available on GitHub: [paumkim/zomi-dataset](https://github.com/paumkim/zomi-dataset)
-
-It's being used to train the first Zomi-speaking AI. You can help.
+[github.com/paumkim/zomi-dataset](https://github.com/paumkim/zomi-dataset)
 
 ---
 

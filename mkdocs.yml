@@ -1,42 +1,26 @@
-site_name: Zomi Language Guide
-site_description: Learn to write clean, consistent Zomi (Tedim/Zo). Spelling rules, grammar, AI training, and the vision for a Zomi digital future.
-site_author: Paumkim — Zomi Language Preservation
+site_name: Zomi Guide
+site_description: Clean Zomi (Tedim/Zo) — spelling, grammar, AI training.
+site_author: Paumkim
 site_url: https://paumkim.github.io/zomi-website/
 repo_url: https://github.com/paumkim/zomi-website
 repo_name: zomi-website
-copyright: Copyright &copy; 2026 Paumkim — Built for the Zomi community. Dammaw! 🔥
+copyright: Copyright &copy; 2026 Paumkim · Zomi Community · Dammaw! 🔥
 
 theme:
   name: material
   favicon: assets/images/favicon.png
   logo: assets/images/favicon.png
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: red
-      accent: amber
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: red
-      accent: amber
-      toggle:
-        icon: material/weather-night
-        name: Switch to light mode
+    scheme: slate
+    primary: black
+    accent: cyan
   font:
-    text: Inter
+    text: JetBrains Mono
     code: JetBrains Mono
   features:
     - navigation.instant
-    - navigation.tracking
     - navigation.top
-    - navigation.indexes
-    - search.highlight
     - content.code.copy
-    - content.tabs.link
-    - content.action.edit
 
 extra:
   homepage: https://paumkim.github.io/zomi-website/
