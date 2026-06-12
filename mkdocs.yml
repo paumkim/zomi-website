@@ -1,34 +1,31 @@
-site_name: Zomi Spelling Guide
-site_description: Learn to write clean, consistent Zomi (Tedim/Zo). Spelling rules, grammar guide, word lists, example texts, golden textbooks, and free Zomi Bible download.
-site_author: Zomi Community
+site_name: Zomi Language Guide
+site_description: Learn to write clean, consistent Zomi (Tedim/Zo). Spelling rules, grammar, AI training, and the vision for a Zomi digital future.
+site_author: Paumkim — Zomi Language Preservation
 site_url: https://paumkim.github.io/zomi-website/
-site_keywords: zomi, tedim, zolai, zomi language, zomi spelling, zo language, tedim bible, zomi grammar, zomi dictionary, zomi writing, chin language, myanmar language
+site_keywords: zomi, tedim, zolai, zomi language, zomi spelling, zo language, tedim bible, zomi grammar, zomi ai, cingno ai, chin language
 repo_url: https://github.com/paumkim/zomi-website
 repo_name: zomi-website
+copyright: Copyright &copy; 2026 Paumkim — Built for the Zomi community. Dammah! 🔥
 
 theme:
   name: material
   favicon: assets/images/favicon.png
   logo: assets/images/favicon.png
   palette:
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: deep purple
+      primary: deep purple
+      accent: deep orange
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: deep purple
+      primary: deep purple
+      accent: deep orange
       toggle:
         icon: material/weather-night
-        name: Switch to system preference
+        name: Switch to light mode
   font:
     text: Inter
     code: JetBrains Mono
@@ -36,15 +33,27 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.top
+    - navigation.indexes
     - search.highlight
     - content.code.copy
     - content.tabs.link
+    - content.action.edit
 
 extra:
   homepage: https://paumkim.github.io/zomi-website/
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/paumkim/zomi-website
+      link: https://github.com/paumkim
+      name: Paumkim on GitHub
+    - icon: fontawesome/brands/hugging-face
+      link: https://huggingface.co/paumkim
+      name: Paumkim on Hugging Face
+    - icon: fontawesome/solid/globe
+      link: https://paumkim.github.io/zomi-dataset
+      name: Zomi Dataset
+
+extra_css:
+  - assets/css/custom.css
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -57,6 +66,7 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+  - attr_list
 
 docs_dir: src
 
@@ -65,16 +75,20 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - Quick Guide: ZOMI_SPELLING_EXPLAINED.md
-  - Full Reference: ZOMI_SPELLING_GUIDE.md
-  - Intro to Zomi Writing: intro.md
-  - Grammar Essentials: grammar.md
-  - Particles & Word Structure: particles.md
-  - Numbers: numbers.md
-  - Example Texts: examples.md
-  - 📚 Golden Textbooks: textbooks.md
-  - 📖 Golden Lessons: ZOMI_GOLDEN_LESSONS.md
-  - 📖 Tedim Bible: tedim_bible.md
-  - 📝 Word Frequency: word_frequency.md
-  - 💬 Common Phrases: phrases.md
-  - 🤖 AI Training Guide: ai_training.md
+  - Spelling Guide:
+    - Quick Guide: ZOMI_SPELLING_EXPLAINED.md
+    - Full Reference: ZOMI_SPELLING_GUIDE.md
+    - Intro to Zomi Writing: intro.md
+    - Grammar Essentials: grammar.md
+    - Particles & Word Structure: particles.md
+    - Numbers: numbers.md
+    - Example Texts: examples.md
+  - 📚 Resources:
+    - Golden Textbooks: textbooks.md
+    - Golden Lessons: ZOMI_GOLDEN_LESSONS.md
+    - Tedim Bible: tedim_bible.md
+    - Word Frequency: word_frequency.md
+    - Common Phrases: phrases.md
+  - 🤖 AI & Future:
+    - AI Training Guide: ai_training.md
+    - Three Waves of AI: ai_adaptation.md
