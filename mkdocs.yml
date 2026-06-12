@@ -74,6 +74,7 @@ nav:
   - 📖 Laisiangtho:
     - Tedim Bible (1932): tedim_bible.md
   - 🤖 AI & Future:
+    - Pure Language Engine: pure_language_engine.md
     - Agent Architecture: agent_architecture.md
     - AI Training Guide: ai_training.md
     - Three Waves of AI: ai_adaptation.md
