@@ -18,6 +18,18 @@
 - Total steps: ~8,000 (5 epochs)
 - Cost: ~$60 for full run
 
+### Real Costs Incurred (6 Pods)
+
+| Pod | GPU | Time | Cost | Result |
+|-----|-----|------|------|--------|
+| 1 | A100 SXM | ~1 hr | ~$1.49 | First pod, ran but slow |
+| 2 | A40 48GB | ~1.5 hr | ~$0.66 | CUDA mismatch, 85s/step |
+| 3 | A100 PCIe | Brief | ~$0 | OOM on 20GB disk |
+| 4 | A40 48GB | ~2 hr | ~$0.88 | Trained but 28s/step, disk full |
+| 5 | A100 SXM | ~3 hr | ~$4.47 | Various torch experiments |
+| 6 | A100 SXM | ~2 hr | ~$2.98 | Tested 7B at 29s/step, killed |
+| **Total** | | | **~$10-12** | **Bridge + Agent + Docs** |
+
 ### Errors We Hit & Fixes
 
 | Error | Cause | Fix |
@@ -37,6 +49,26 @@
 3. **Packed chunks over per-line** — 53k steps instead of 453k (15x faster)
 4. **Base model over instruct** — Pure language engine, no chat fluff contamination
 5. **Native CUDA 12.8 over compat layer** — 2.4x speed improvement
+
+### Quick Start (Copy-Paste Ready)
+
+```bash
+# 1. Deploy: A100 SXM, 100GB disk, SSH key pre-set, RunPod PyTorch 2.8.0
+
+# 2. Copy files
+scp -P <port> zomi_clean_p*.txt root@<ip>:/workspace/data/
+
+# 3. Download and customize script
+ssh -p <port> root@<ip> "curl -L https://raw.githubusercontent.com/paumkim/zomi-dataset/main/cloud_train.py -o /workspace/cloud_train.py"
+ssh -p <port> root@<ip> "sed -i 's/2.5-7B/2.5-3B/' /workspace/cloud_train.py"
+
+# 4. Login and run
+ssh -p <port> root@<ip> "hf auth login --token YOUR_TOKEN && cd /workspace && nohup python cloud_train.py > training.log 2>&1 &"
+
+# 5. Deploy watchdog for auto-recovery
+scp scripts/watchdog.sh root@<ip>:/workspace/
+ssh -p <port> root@<ip> "chmod +x /workspace/watchdog.sh && nohup bash /workspace/watchdog.sh &"
+```
 
 ### Infrastructure Built
 
