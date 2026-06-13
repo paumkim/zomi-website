@@ -183,6 +183,46 @@ This website is part of a growing effort to establish the Zomi language in the d
 
 ---
 
+## Population & Demographics
+
+Getting an exact population count for the Zomi people is difficult because:
+
+- Myanmar's last reliable census was before 2021
+- India counts Kuki, Mizo, and Chin under different categories
+- The diaspora is scattered across many countries, often uncounted
+- Ongoing conflict makes data collection impossible in many areas
+
+### Best Estimates (Last Updated: June 2026)
+
+| Region | Estimate | Notes |
+|--------|----------|-------|
+| Chin State, Myanmar | ~1,000,000 | Pre-war estimates |
+| Mizoram, India | ~800,000 | As "Mizo" — closely related |
+| Manipur, India | ~500,000 | As "Kuki" and "Zomi" |
+| Other Myanmar | ~200,000 | Yangon, Mandalay, other cities |
+| United States | ~70,000 | Largest Chin/Zomi diaspora |
+| Malaysia | ~27,000 | UNHCR-registered only |
+| Australia | ~8,400 | Refugee resettlement |
+| Rest of World | ~10,000+ | Canada, UK, Europe, NZ, Japan |
+| **Total** | **~2,600,000+** | Very rough estimate |
+
+> **Live tracking note:** True real-time population data for an ethnic group scattered across multiple countries, refugee camps, and diaspora communities is not available from any single source. The numbers above are compiled from the best available estimates and will be updated as new data emerges.
+
+### Population Distribution
+
+```
+Myanmar (Chin State)   ████████████████████████  1,000,000
+Mizoram, India         ████████████████████        800,000
+Manipur, India         ████████████                 500,000
+Other Myanmar          █████                          200,000
+United States          ██                              70,000
+Malaysia               ▏                               27,000
+Australia              ▏                                8,400
+Rest of World          ▏                               10,000+
+```
+
+---
+
 ## Church Divisions
 
 This is a sensitive but important topic. The Zomi people are overwhelmingly Christian (~85-90%), but they are not united under one church.
