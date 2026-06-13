@@ -194,6 +194,16 @@ Getting an exact population count for the Zomi people is difficult because:
 
 ### Best Estimates (Last Updated: June 2026)
 
+<div style="text-align:center;padding:20px;background:#161B22;border:1px solid #30363D;border-radius:12px;margin:20px 0;">
+
+# ~2,600,000+
+
+<span style="color:#8B949E;">Estimated total Zomi population worldwide</span>
+
+*Includes Zomi, Chin, and related Kuki-Chin-Mizo groups*
+
+</div>
+
 | Region | Estimate | Notes |
 |--------|----------|-------|
 | Chin State, Myanmar | ~1,000,000 | Pre-war estimates |
