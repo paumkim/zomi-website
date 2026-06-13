@@ -183,6 +183,99 @@ This website is part of a growing effort to establish the Zomi language in the d
 
 ---
 
+## Church Divisions
+
+This is a sensitive but important topic. The Zomi people are overwhelmingly Christian (~85-90%), but they are not united under one church.
+
+### Major Denominations
+
+| Church Body | Founded | Notes |
+|-------------|---------|-------|
+| **Chin Baptist Convention (CBC)** | 1953 | Largest denomination, ~200,000 members, ~900 churches. Originally called Zomi Baptist Convention |
+| **Zomi Baptist Convention of Myanmar (ZBCM)** | 1995 | Split from CBC over theological differences. ~190 churches. Aligned with Southern Baptist Convention |
+| **Kalay Valley Baptist Convention (KVBC)** | 2013 | Split from CBC when the name changed from "Zomi" to "Chin" |
+| **Roman Catholic** | — | Small minority (~1%) |
+| **Other** | — | Pentecostal, Evangelical, and independent churches |
+
+### Why the Divisions?
+
+**Theological differences:**
+- Disputes over ecumenical affiliation (mainline vs. conservative)
+- Some groups wanted closer ties to the Southern Baptist Convention; others preferred local autonomy
+
+**The name itself:**
+- When "Zomi Baptist Convention" changed to "Chin Baptist Convention" in 2013, it triggered a walkout
+- The Zomi vs Chin identity debate directly affects church affiliation
+- Some groups reject "Chin" as a colonial name and insist on "Zomi"
+
+**Tribal and regional lines:**
+- Church life has historically been organized along tribal and regional lines (Tedim, Falam, Hakha, etc.)
+- This has caused fragmentation — each group has its own network of churches and leaders
+
+**Mission history:**
+- Different missionary societies (American Baptist, Catholic, later Southern Baptist) worked in different territories
+- These historical boundaries became lasting denominational divisions
+
+### The Human Cost
+
+The divisions mean that in some communities, people primarily socialize within their own church group. Marriages across church lines can be complicated. This is a source of tension and sadness for many Zomi people who wish for greater unity.
+
+> *Understanding these divisions is not about taking sides. It is about recognizing that the Zomi people, like all people, are shaped by history, theology, and politics — and that unity is an aspiration, not a given.*
+
+---
+
+## The Current Conflict in Chin State
+
+Since the Myanmar military seized power in February 2021, Chin State — Myanmar's only Christian-majority state — has become a major theater of civil war.
+
+### What Happened
+
+- Multiple local armed resistance groups emerged under the umbrella **Chinland Defense Forces (CDF)**
+- The **Chin National Front (CNF)** and its armed wing, the **Chin National Army (CNA)**, are major players
+- In December 2023, the CNF adopted a "Chinland Constitution" and declared the **State of Chinland**
+- However, this was not universally accepted — resistance groups from 5 of 9 townships objected
+- By late 2024, Chin resistance forces controlled roughly **80% of Chin State de facto**
+
+### The Human Impact
+
+| Impact | Number |
+|--------|--------|
+| Displaced within Chin State | ~61,000 |
+| Refugees in Mizoram, India | ~60,000-100,000 |
+| Total affected | ~160,000 (about 1/3 of Chin State's population) |
+
+### A Note on This Conflict
+
+This website does not take sides in the conflict. The Zomi people are caught in a complex situation involving the Myanmar military government, local resistance groups, and neighboring countries. What is presented here is a factual summary of what is known.
+
+---
+
+## The Global Zomi Diaspora
+
+The Zomi people are spread across the world, primarily as a result of refugee resettlement.
+
+### Where They Live
+
+| Country | Estimated Population | Key Cities |
+|---------|--------------------|------------|
+| **Myanmar** | ~1,000,000 | Chin State (Hakha, Falam, Tedim), Yangon, Mandalay |
+| **India** | ~100,000+ | Mizoram (Aizawl), Manipur (Churachandpur, Imphal), New Delhi |
+| **United States** | ~70,000 | Indianapolis (largest Chin community in US), Tulsa ("Zomi Town"), Fort Wayne, Columbus OH, Milwaukee, Kansas City |
+| **Malaysia** | ~27,000 (registered) | Kuala Lumpur, Penang, Johor Bahru |
+| **Australia** | ~8,400 | Brisbane, Sydney, Melbourne, Perth |
+| **Other** | ~10,000+ | Canada, UK, New Zealand, Germany, Sweden, Norway, Japan |
+
+### The Refugee Experience
+
+Most Zomi people outside Myanmar arrived through refugee resettlement:
+
+- **Malaysia:** A common first asylum country. Malaysia is not a signatory to the Refugee Convention, so refugees face detention, arrest, and cannot legally work.
+- **India:** Many fled to Mizoram (where the Mizo people are ethnolinguistically related). They live in a legal gray zone with limited rights.
+- **Third-country resettlement:** Through UNHCR, refugees are resettled to the US, Australia, Canada, New Zealand, and European countries. The process often takes 5-10 years.
+- **Tulsa, Oklahoma** is sometimes called **"Zomi Town"** because of the large Zomi community there.
+
+---
+
 ## Further Reading
 
 - **Wikipedia:** Zo people, Chin people, Kuki people, Zomi people
