@@ -153,4 +153,25 @@ POST /write   → write file
 
 ---
 
+## Entry 6: June 14, 2026 — Future Tools: TurboVec
+
+**Discovered:** [TurboVec](https://github.com/RyanCodrai/turbovec) — a Rust vector index with Python bindings. Think FAISS but faster and lighter.
+
+**What it does:** Stores "embeddings" (numerical representations of text meaning) and finds similar items by semantic meaning, not just keywords.
+
+**Potential uses for Pau:**
+- **Semantic Bible search** — "find verses about God's love" returns relevant results even if the exact words aren't in the verse
+- **Cross-language verse matching** — match Tedim verses to English/Burmese by meaning instead of verse number alignment
+- **Similar lyrics** — find worship songs with similar themes from 188+ songs
+- **Translation memory** — cache similar translations to improve speed and consistency
+
+**Not needed now** — keyword search works fine. TurboVec would add value when:
+1. We have an embedding model running (either local or API)
+2. Users need "find more like this" features
+3. Corpus grows beyond what keyword search handles well
+
+**Saved for later evaluation.** No immediate action needed.
+
+---
+
 *This journal is a living document. Each training session, experiment, and breakthrough gets recorded here.*
