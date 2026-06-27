@@ -2,7 +2,7 @@
 
 ## The Pattern That Changes How You Build
 
-Most people stay stuck in one thinking frame their whole career. The reason most projects fail isn't skill — it's that the builder only ever sees the problem through one lens.
+Most people stay stuck in one thinking frame their whole career. The reason most projects fail isn't skill – it's that the builder only ever sees the problem through one lens.
 
 Three-Frame Thinking is a simple rotation: **yourself, your customer, your stakeholder.** You hold two at a time and rotate. That's it.
 
@@ -79,7 +79,7 @@ Building the Pau translation app:
 - **Customer** wants translations to work, doesn't care how
 - **Boss** wants the app to ship this year
 
-**Me + Customer** rotation catches: "I can use an existing model API and still deliver good translations — the user doesn't care about my architecture."
+**Me + Customer** rotation catches: "I can use an existing model API and still deliver good translations – the user doesn't care about my architecture."
 
 **Customer + Boss** rotation catches: "Offline support matters more than voice input. Ship offline first, voice later."
 
@@ -93,7 +93,7 @@ This framework wasn't read in a book. It was derived from driving and thinking a
 
 > "I was driving and trying to figure out life really. Of why am I not able to make it or succeed. I realized that I do have to think about my boss and my customers."
 
-The realization was that **success isn't about talent or effort — it's about seeing the full picture.** Each frame is a piece of the picture. Two at a time, rotating, is enough to see the whole thing.
+The realization was that **success isn't about talent or effort – it's about seeing the full picture.** Each frame is a piece of the picture. Two at a time, rotating, is enough to see the whole thing.
 
 ---
 

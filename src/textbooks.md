@@ -1,6 +1,6 @@
 # Golden Textbooks
 
-## Zolai Simbu — The Zomi Textbook Series
+## Zolai Simbu – The Zomi Textbook Series
 
 These are original Zolai educational textbooks from the 1980s (Tedim Township, Myanmar),
 used when the Zomi language was actively taught in schools. They represent the
@@ -25,7 +25,7 @@ used when the Zomi language was actively taught in schools. They represent the
 
 | Book | Description |
 |------|-------------|
-| 📐 **Zolai Gelhmaan Bu 1** | Grammar Volume I — by Taang Zomi |
+| 📐 **Zolai Gelhmaan Bu 1** | Grammar Volume I – by Taang Zomi |
 | 📜 **Zolai Khanggui (1899–2013)** | Zomi history timeline |
 | 📏 **Zolai Standard Format** | Official style guide for Zomi writing |
 
@@ -45,5 +45,5 @@ All textbooks and extracted text are available in the
 
 What I learned from these books:
 
-👉 [Zomi Golden Lessons](ZOMI_GOLDEN_LESSONS.md) — 13 lessons distilled
+👉 [Zomi Golden Lessons](ZOMI_GOLDEN_LESSONS.md) – 13 lessons distilled
 from the complete textbook series.

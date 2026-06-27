@@ -9,7 +9,7 @@ copyright: Copyright &copy; 2026 Paumkim · Zomi Community · Dammaw! 🔥
 theme:
   name: material
   favicon: assets/images/favicon.png
-  logo: assets/images/favicon.png
+  logo: assets/images/logo.svg
   palette:
     scheme: slate
     primary: black

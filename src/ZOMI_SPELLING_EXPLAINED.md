@@ -13,7 +13,7 @@ The secret to clean Zomi writing is: **merge everything that belongs together.**
 
 ## Rule 1: Particles Merge to Their Nearest Word
 
-These short words should NEVER be written alone — attach them:
+These short words should NEVER be written alone – attach them:
 
 | Particle | Meaning | Wrong ✗ | Right ✓ |
 |----------|---------|---------|---------|
@@ -34,7 +34,7 @@ These short words should NEVER be written alone — attach them:
 ## Rule 2: The Agentive `'n` (Short for `in`)
 
 `'n` is the short form of `in` (agentive/instrumental marker). 
-The apostrophe tells your eye "this is a shortened form" — making reading faster.
+The apostrophe tells your eye "this is a shortened form" – making reading faster.
 
 | Long form | Short form | Normalized |
 |-----------|------------|------------|
@@ -102,7 +102,7 @@ The hyphen tells the reader: "this suffix belongs to the name."
 
 ## Rule 6: Vowel Length Changes Meaning
 
-Long vowels are NOT decoration — they change the word:
+Long vowels are NOT decoration – they change the word:
 
 | Long | Meaning | Short | Meaning |
 |------|---------|-------|---------|

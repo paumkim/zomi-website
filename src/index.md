@@ -1,6 +1,6 @@
 # Zomi Language Guide
 
-Zomi aw — i ngaihdanna, i gam, i minam, i kammal.
+Zomi aw – i ngaihdanna, i gam, i minam, i kammal.
 
 Clean Zomi spelling, grammar, resources, and AI training.
 
@@ -8,13 +8,13 @@ Clean Zomi spelling, grammar, resources, and AI training.
 
 ## Navigation
 
-- **[Quick Guide](ZOMI_SPELLING_EXPLAINED.md)** — Rules for Zomi speakers
-- **[Full Reference](ZOMI_SPELLING_GUIDE.md)** — Complete spelling guide
-- **[Grammar Essentials](grammar.md)** — Sentence structure, particles, tenses
-- **[Particles & Word Structure](particles.md)** — Complete particle reference
-- **[Numbers](numbers.md)** — Counting system, time expressions
-- **[AI Training Guide](ai_training.md)** — Train an AI to speak Zomi
-- **[Three Waves of AI](ai_adaptation.md)** — AI adaptation and language preservation
+- **[Quick Guide](ZOMI_SPELLING_EXPLAINED.md)** – Rules for Zomi speakers
+- **[Full Reference](ZOMI_SPELLING_GUIDE.md)** – Complete spelling guide
+- **[Grammar Essentials](grammar.md)** – Sentence structure, particles, tenses
+- **[Particles & Word Structure](particles.md)** – Complete particle reference
+- **[Numbers](numbers.md)** – Counting system, time expressions
+- **[AI Training Guide](ai_training.md)** – Train an AI to speak Zomi
+- **[Three Waves of AI](ai_adaptation.md)** – AI adaptation and language preservation
 
 ---
 
@@ -45,7 +45,7 @@ ki khawm →  kikhawm
 
 ## 🤝 Support Zomi AI
 
-Zomi AI is a community effort — no funding, no grants, just passion.
+Zomi AI is a community effort – no funding, no grants, just passion.
 If this work matters to you, every bit helps keep the training running.
 
 [**❤️ Support on GoFundMe**](https://www.gofundme.com/f/zomi-zolai-zopau?attribution_id=a6f2a24f-9569-405e-aabf-92efec33807a)

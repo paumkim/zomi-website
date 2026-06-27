@@ -74,7 +74,7 @@ Everyday expressions from native Zomi speakers.
 
 - Use **`le`** for smooth conversation (not `leh` which is more aggressive)
 - Use **`i`** for "we" in conversation (not `ih` which is authoritative)
-- End sentences with **`hi`** — it closes the statement like a period
+- End sentences with **`hi`** – it closes the statement like a period
 - Add **`hiam?`** at the end to make a question
 
 ---

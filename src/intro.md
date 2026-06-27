@@ -2,7 +2,7 @@
 
 ## How Zomi Works
 
-Zomi is a **tonal, agglutinative** language spoken by the Zo/Zomi people in Myanmar, India, and Bangladesh. Unlike English — where words are mostly fixed islands — Zomi builds meaning by **attaching small particles** to root words like Lego bricks.
+Zomi is a **tonal, agglutinative** language spoken by the Zo/Zomi people in Myanmar, India, and Bangladesh. Unlike English – where words are mostly fixed islands – Zomi builds meaning by **attaching small particles** to root words like Lego bricks.
 
 ### One Big Idea
 
@@ -76,9 +76,9 @@ ki  +  khawm  +  ding  +  in
 
 ---
 
-## The Apostrophe `'n` — A Special Shortcut
+## The Apostrophe `'n` – A Special Shortcut
 
-The `'n` is the **short form** of the agentive particle `in`. It marks the subject of a sentence — the one doing the action.
+The `'n` is the **short form** of the agentive particle `in`. It marks the subject of a sentence – the one doing the action.
 
 | Long form | Short form | Normalized |
 |-----------|------------|------------|
@@ -90,13 +90,13 @@ The `'n` is the **short form** of the agentive particle `in`. It marks the subje
 The apostrophe signals to your eye "this is a shortened form." Without it, `Zeisun` looks like a different word. With `Zeisu'n`, your brain instantly parses it as `Zeisu` + agentive marker.
 
 > **Golden rule:** The `'n` goes on the **last word** of a noun phrase only.  
-> `Topa Zeisu'n` = Lord Jesus (subject) — NOT `Topan Zeisun`
+> `Topa Zeisu'n` = Lord Jesus (subject) – NOT `Topan Zeisun`
 
 ---
 
 ## Vowel Length Changes Meaning
 
-In Zomi, how long you hold a vowel **changes the word entirely**. This is not a accent — it's the dictionary.
+In Zomi, how long you hold a vowel **changes the word entirely**. This is not a accent – it's the dictionary.
 
 | Short vowel | Means | Long vowel | Means |
 |-------------|-------|------------|-------|

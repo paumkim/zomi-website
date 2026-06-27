@@ -13,17 +13,17 @@ Long vowels are **meaning-distinguishing**. Use them when the tone is held longe
 | `paai` | go, walk | `pai` | throw away |
 | `zaaw` | pay back (debt) | `zaw` | weak, no strength |
 | `taawm` | picking up | `tawm` | less, not enough |
-| `khaai` | hanging, hung on | `khai` | (no other meaning — keep short) |
+| `khaai` | hanging, hung on | `khai` | (no other meaning – keep short) |
 | `siing` | shaking, vegetable | `sing` | wood |
-| `daam` | good, healthy, positive | — | — |
-| `khua` | place, country, hometown | — | — |
-| `khuadam` | cool, breezy (khua + dam) | — | — |
-| `sanggam` | sibling | — | — |
-| `sanggampa` | brother (sanggam + pa) | — | — |
-| `sanggamnu` | sister (sanggam + nu) | — | — |
-| `nu` | mother, female | — | — |
+| `daam` | good, healthy, positive | – | – |
+| `khua` | place, country, hometown | – | – |
+| `khuadam` | cool, breezy (khua + dam) | – | – |
+| `sanggam` | sibling | – | – |
+| `sanggampa` | brother (sanggam + pa) | – | – |
+| `sanggamnu` | sister (sanggam + nu) | – | – |
+| `nu` | mother, female | – | – |
 | `Laisiangtho` | Bible, Holy Scripture | `lai` (paper) + `siang` (clean/pure) + `tho` | |
-| `Baibul` | Bible (Mizoram-influenced — avoid) | Borrowed from English "Bible" |
+| `Baibul` | Bible (Mizoram-influenced – avoid) | Borrowed from English "Bible" |
 | `doong` | collecting, to collect | `dong` | ask, asking |
 | `paawl` | group (paawl khat) | `pawl` | stripe (zebra stripe) |
 | `ngeen` | fishnet | `ngen` | ask, requesting |
@@ -32,20 +32,20 @@ Long vowels are **meaning-distinguishing**. Use them when the tone is held longe
 | `tuul` | lasting very long time | `tul` | thousand |
 | `kual`/`kuaal` | circling around | `kul` | gate |
 | `Ziing` | early morning, dark, unclear | `Zing` | very sudden sound |
-| `Ziingsang` | early morning (preferred over Ziinglam) | — | — |
-| `luung` | mind | — | — |
+| `Ziingsang` | early morning (preferred over Ziinglam) | – | – |
+| `luung` | mind | – | – |
 | `laam` | dance | `lam` | path, way |
 | `la` | song | `la` | take (same spelling, context/tone distinguishes) |
-| `lai` | paper, written text | — | — |
+| `lai` | paper, written text | – | – |
 | `laisiangtho` | Bible, holy scripture | `lai` (paper) + `siang` (clean) + `tho` (?) |
 | `laapi` | big song (`la` + `pi`) | `lampi` | road, walking path, trail (lam + pi) |
 | `gaan` | animal | `gan` | (short form) |
 | `gaanlam` | animal path | `ganlam` | (short form) |
 | `gaam` | wild lands, jungle (rooming wildlife) | `gam` | land, country (general) |
 | `suung` | (deep) inside, interior | `sung` | inside |
-| `gaamsung` | jungle interior (gaam + sung, preferred over gaamsuung) | — | — |
-| `Zo` | victory, Zo people | — | — |
-| `Topa` | Lord (Tedim Zomi — correct) | `Toupa` | Mizoram-influenced spelling (avoid) |
+| `gaamsung` | jungle interior (gaam + sung, preferred over gaamsuung) | – | – |
+| `Zo` | victory, Zo people | – | – |
+| `Topa` | Lord (Tedim Zomi – correct) | `Toupa` | Mizoram-influenced spelling (avoid) |
 
 **Time expression note**: `Tuni Ziingsang` = "today early morning" (preferred). Use `Ziingsang` for morning, not `Ziinglam`.
 
@@ -75,7 +75,7 @@ These are **completely different words** that sound similar when spoken lazily:
 
 | Word | Meaning | Example |
 |------|---------|---------|
-| `Kei'n` | I (agentive subject) — `Kei` + `in` | `Kei'n nang kong it hi` = I love you |
+| `Kei'n` | I (agentive subject) – `Kei` + `in` | `Kei'n nang kong it hi` = I love you |
 | `Ken` | Don't! (negative imperative) | `Lawng ken!` = Don't touch! |
 | `Kei ing` | It is I / I am (declarative) | `Hih kei ing` = This is I |
 | `ing` | I am (first person marker) | `Hiah om ing` = Here I am |
@@ -90,7 +90,7 @@ The apostrophe in `kei'n` is **critical**:
 
 **`ken` = "don't"** is a standalone negative command word. It has nothing to do with `Kei'n`. The only reason they get confused is lazy pronunciation/spelling by people who drop the apostrophe.
 
-**Note on `kei` vs `ke`:** `Kei` is the full word for "I/me." `Ke` is the shortened form used in `Ke'n` (kei + 'n). The `Ke` form only appears with the apostrophe — never alone.
+**Note on `kei` vs `ke`:** `Kei` is the full word for "I/me." `Ke` is the shortened form used in `Ke'n` (kei + 'n). The `Ke` form only appears with the apostrophe – never alone.
 
 ### The particle `pi` = big, huge
 
@@ -108,7 +108,7 @@ The apostrophe in `kei'n` is **critical**:
 |------|---------|-------|
 | `tui` | water | general term |
 | `tuipi` | ocean | big water |
-| `lui` | stream | — |
+| `lui` | stream | – |
 | `luitui` | stream water | lui + tui |
 | `guuntui` | small stream | smaller than ocean |
 | `hawktui` | sweat | swear water |
@@ -119,25 +119,25 @@ The apostrophe in `kei'n` is **critical**:
 | Phrase | Pronunciation | Meaning | Breakdown |
 |--------|---------------|---------|-----------|
 | `Dammaw?` | Daammaw? (long aa) | Are you well? / How are you? | `daam` (good) + `maw?` (question) |
-| `Damma` | — | Answer: "well/okay" | Short reply to Dammaw? |
-| `Dammah` | — | Answer with authority/anger | Adding `h` = more powerful tone |
-| `Dam takin` | — | Slowly, cooly | `dam` + `takin` (adverb) |
-| `Damahmah` | — | Very good, very thankful | `dam` + `mahmah` (reduplication for emphasis) |
-| `Lungdam` | — | Happy, grateful | `lung` (heart/mind) + `dam` (good) |
-| `Khuadam` | — | Cool, breezy (weather) | `khua` (place) + `dam` (good) |
+| `Damma` | – | Answer: "well/okay" | Short reply to Dammaw? |
+| `Dammah` | – | Answer with authority/anger | Adding `h` = more powerful tone |
+| `Dam takin` | – | Slowly, cooly | `dam` + `takin` (adverb) |
+| `Damahmah` | – | Very good, very thankful | `dam` + `mahmah` (reduplication for emphasis) |
+| `Lungdam` | – | Happy, grateful | `lung` (heart/mind) + `dam` (good) |
+| `Khuadam` | – | Cool, breezy (weather) | `khua` (place) + `dam` (good) |
 
 **Tone pattern:** Adding `h` to the end of a word makes it more authoritative,
-angry, or powerful — just like `i` vs `ih` and `le` vs `leh`:
+angry, or powerful – just like `i` vs `ih` and `le` vs `leh`:
 - `Damma` = calm reply | `Dammah` = strong/angry reply
 - `A hoih` = it's good | `A hoih mah` = it's VERY good (emphatic)
 
-Note: Spelled `Dammaw?` but pronounced with a long `aa` — `Daammaw?`. The short spelling is standard writing; the long vowel is how it's actually spoken.
+Note: Spelled `Dammaw?` but pronounced with a long `aa` – `Daammaw?`. The short spelling is standard writing; the long vowel is how it's actually spoken.
 
 **General rule**: If a word has no meaning conflict with another word, **no long vowel needed**. If multiple meanings exist, use long vowels to disambiguate.
 
 ---
 
-## 2. `ia` vs `i` — Distinct Words (Do NOT normalize)
+## 2. `ia` vs `i` – Distinct Words (Do NOT normalize)
 
 | ia-form | Meaning | i-form | Meaning |
 |---------|---------|--------|---------|
@@ -146,22 +146,22 @@ Note: Spelled `Dammaw?` but pronounced with a long `aa` — `Daammaw?`. The shor
 | `diang` | jump | `ding` | for, future marker |
 | `siam` | very good, talented / pray to for luck | `sim` | reading, counting, challenge |
 | `liang` | shoulder, above to hang on | `ling` | thorn |
-| `khia` | drop, kick out, let go | — | — |
+| `khia` | drop, kick out, let go | – | – |
 | `khiat` | already dropped (past of khia) | `khat` | one |
 | `siat` | broken (past of sia), rooster's ankle spike | `sit` | using less, saving |
 | `pial` | ran off path | `pil` | smart, intelligent, wise |
-| `piang` | appear | — | — |
-| `ciang` | shepherd's flock (tuucing) | `cing` | suffix — merge to previous |
+| `piang` | appear | – | – |
+| `ciang` | shepherd's flock (tuucing) | `cing` | suffix – merge to previous |
 
 **Particle**: `khin` = end of sentence (keep separate)
 
 ---
 
-## 3. `ua` vs `u` — Distinct Words (Do NOT normalize)
+## 3. `ua` vs `u` – Distinct Words (Do NOT normalize)
 
 | ua-form | Meaning | u-form | Meaning |
 |---------|---------|--------|---------|
-| `thuak` | take damage/hits, endure | — | — |
+| `thuak` | take damage/hits, endure | – | – |
 | `luah` | take over, scoop (past of luak) | `luh` | jumped unexpectedly (ki luh) |
 | `suak` | born, appear | `suk` | down, downhill (mual suk), or past of `su` (nudge) |
 | `puak` | past of pua (carry on back) | `puk` | fell down |
@@ -172,7 +172,7 @@ Note: Spelled `Dammaw?` but pronounced with a long `aa` — `Daammaw?`. The shor
 
 ---
 
-## 4. `aw` vs `o` — Distinct Words (Do NOT normalize)
+## 4. `aw` vs `o` – Distinct Words (Do NOT normalize)
 
 | aw-form | Meaning | o-form | Meaning |
 |---------|---------|--------|---------|
@@ -220,7 +220,7 @@ These particles/suffixes should be **merged** with the preceding word:
 
 ## 6. Final -ing
 
-Final `-ing` is correct — keep it. Do NOT change to `-in`.
+Final `-ing` is correct – keep it. Do NOT change to `-in`.
 
 Examples: `ding` (not `din`), `bang` (not `ban`), `hong` (not `hon`)
 
@@ -238,10 +238,10 @@ Examples: `ding` (not `din`), `bang` (not `ban`), `hong` (not `hon`)
 ## 8. Consonants
 
 ### Aspiration (kh/k, ph/p, th/t)
-Phonemic — keep distinct as written.
+Phonemic – keep distinct as written.
 
 ### ng/g
-- `gah` = berry suffix — merge with preceding word
+- `gah` = berry suffix – merge with preceding word
 - `gen` = tell, say
 - `ngen` = ask, request
 
@@ -250,7 +250,7 @@ Phonemic — keep distinct as written.
 ## 9. Normalization Pipeline
 
 1. Preserve ALL vowel length distinctions (do NOT normalize)
-2. Do NOT normalize ia/i, ua/u, aw/o — they are different words
+2. Do NOT normalize ia/i, ua/u, aw/o – they are different words
 3. Merge plural `te` with preceding word
 4. Merge agentive `'n` with preceding word (remove apostrophe)
 5. Merge `cing` with preceding word
@@ -311,7 +311,7 @@ Phonemic — keep distinct as written.
 | `teng-` | hundred-thousand | `tengkhat` (100,000) |
 | `tan-` / `tam-` | million | `tankhat` (1,000,000) |
 
-**Note**: The prefix changes from `za-` to `zah-` before certain numbers (thuum, lii, ngaa) — likely a phonological assimilation rule.
+**Note**: The prefix changes from `za-` to `zah-` before certain numbers (thuum, lii, ngaa) – likely a phonological assimilation rule.
 
 ---
 
@@ -319,29 +319,29 @@ Phonemic — keep distinct as written.
 
 ### `le` vs `leh` (and, with)
 
-- **`le`** — smooth, conversational tone (recommended for general use)
-- **`leh`** — aggressive, high-blood-pressure, emphatic
+- **`le`** – smooth, conversational tone (recommended for general use)
+- **`leh`** – aggressive, high-blood-pressure, emphatic
 
 Use `le` for natural reading flow. Reserve `leh` for strong emphasis or urgent situations.
 
-### `i` vs `ih` (we, our — first person plural prefix)
+### `i` vs `ih` (we, our – first person plural prefix)
 
-- **`i`** — smooth, conversational (recommended)
-- **`ih`** — powerful, angry, authoritative
+- **`i`** – smooth, conversational (recommended)
+- **`ih`** – powerful, angry, authoritative
 
 Example: `i kikhawmding hi` (conversational) vs `ih kikhawmding hi` (authoritative)
 
 ### Verb note: `khawm` vs `khop`
 
 - **`khawm`** = gathering together (e.g., `ki khawm` → `kikhawm`)
-- **`khop`** = (do not use for gathering — `khawm` is correct)
+- **`khop`** = (do not use for gathering – `khawm` is correct)
 
 ---
 
 ## 12. Normalization Pipeline
 
 1. Preserve ALL vowel length distinctions (do NOT normalize)
-2. Do NOT normalize ia/i, ua/u, aw/o — they are different words
+2. Do NOT normalize ia/i, ua/u, aw/o – they are different words
 3. Keep `-ing` final, not `-in`
 4. Merge prefix `ki` to following word (RIGHT side)
 5. Merge `cing` suffix to preceding word

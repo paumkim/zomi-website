@@ -13,7 +13,7 @@ From the Standard Format:
 
 **The six vowels:** a, e, i, o, u, aw
 
-`aw` is its own vowel in Zomi — not a + w. It's the sound in words like:
+`aw` is its own vowel in Zomi – not a + w. It's the sound in words like:
 - `tawh` (with)
 - `sawm` (ten)
 - `khawm` (gather)
@@ -22,14 +22,14 @@ From the Standard Format:
 
 ## 2. Every Word Has a Root (Laimal Bulpi)
 
-Grade 1 teaches the alphabet first — consonants and vowels. Then it builds syllables:
+Grade 1 teaches the alphabet first – consonants and vowels. Then it builds syllables:
 ```
 dau  gau  ngau  hau  kau
 khau  lau  mau  nau  pau
 phau  sau  tau  thau  vau  zau
 ```
 
-This is the Zomi syllable table — every possible consonant + vowel combination.
+This is the Zomi syllable table – every possible consonant + vowel combination.
 Once you know these, you can read any Zomi word.
 
 ---
@@ -81,11 +81,11 @@ Pasian' Kha → God's Spirit
 
 ### Job 2: Short form (contraction of 'in')
 ```
-Zeisu in → Zeisu'n  (Jesus — subject)
-Kei in  → Ke'n     (I — subject)
+Zeisu in → Zeisu'n  (Jesus – subject)
+Kei in  → Ke'n     (I – subject)
 ```
 
-The apostrophe is NOT optional — it helps the reader parse the word.
+The apostrophe is NOT optional – it helps the reader parse the word.
 
 ---
 
@@ -106,7 +106,7 @@ Naupang teng → all of the children
 
 ## 7. "Leh" vs "Le"
 
-From the Grade 1-5 textbooks — both forms appear:
+From the Grade 1-5 textbooks – both forms appear:
 - `leh` is more formal / authoritative
 - `le` is more conversational / smooth
 
@@ -151,7 +151,7 @@ but read as **one word**. The natural way to write is to merge:
 | `Zeisu in` | `Zeisu'n` |
 | `ki khawm` | `kikhawm` |
 
-The Grade 2-4 textbooks already show this — they write
+The Grade 2-4 textbooks already show this – they write
 `kikhawm`, `paaiding`, `innah`, `mite` as single words.
 
 ---
@@ -202,23 +202,23 @@ It is built on a hill near the village. The school roof
 is tin, and the walls are wood and bamboo."
 
 This is the kind of simple, natural Zomi that the textbooks teach.
-No complicated grammar — just clear, everyday sentences.
+No complicated grammar – just clear, everyday sentences.
 
 ---
 
 ## What Makes These Books Golden
 
-Before these textbooks, Zomi was written inconsistently — everyone
+Before these textbooks, Zomi was written inconsistently – everyone
 spelled by ear. These textbooks (1980s, Tedim Township) created
 a **standard** that all schools followed. That's why the spelling
 is consistent across Kindergarten through Grade 4.
 
 The series progression:
-- **Tan Lang** — Kindergarten (first exposure to Zolai letters)
-- **Tan Khat** — Grade 1 (basic reading)
-- **Tan Nih** — Grade 2 (stories and sentences)
-- **Tan Thum** — Grade 3 (longer stories)
-- **Tan Li** — Grade 4 (advanced narratives)
+- **Tan Lang** – Kindergarten (first exposure to Zolai letters)
+- **Tan Khat** – Grade 1 (basic reading)
+- **Tan Nih** – Grade 2 (stories and sentences)
+- **Tan Thum** – Grade 3 (longer stories)
+- **Tan Li** – Grade 4 (advanced narratives)
 
 The older generation who learned from these books spell Zomi
 properly because they learned the rules. The younger generation

@@ -1,8 +1,8 @@
 # Zomi Grammar Essentials
 
-## Sentence Structure — Opposite of English
+## Sentence Structure – Opposite of English
 
-Zomi follows **Subject-Object-Verb (SOV)** order — the opposite of English (SVO).
+Zomi follows **Subject-Object-Verb (SOV)** order – the opposite of English (SVO).
 
 > **English:** Subject → Verb → Object  *(I love you)*
 > **Zomi:**   Subject → Object → Verb *(Kei'n nang ka it hi)*
@@ -41,7 +41,7 @@ Without `'n`, the noun is just the topic or object:
 ```
 Zeisu mite hong it hi
 → "Jesus loves people" or "As for Jesus, people love him"
-  (ambiguous — not clear who is doing the loving)
+  (ambiguous – not clear who is doing the loving)
 ```
 
 ### The Verb Final
@@ -54,7 +54,7 @@ Om ta hi.         → Exists already.
 Hoih lua hi.      → Very good.
 ```
 
-`hi` at the end of a sentence is like a period — it closes the statement.
+`hi` at the end of a sentence is like a period – it closes the statement.
 
 ---
 

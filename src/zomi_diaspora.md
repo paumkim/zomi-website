@@ -1,4 +1,4 @@
-# Zomi Diaspora — Communities Worldwide
+# Zomi Diaspora – Communities Worldwide
 
 A living map of Zomi communities across the globe. Updated as new data emerges.
 
@@ -69,7 +69,7 @@ The typical Zomi refugee journey:
 Chin State, Myanmar
        ↓ (conflict, persecution)
   Malaysia or India
-  (first asylum — 5-10 years)
+  (first asylum – 5-10 years)
        ↓ (UNHCR resettlement)
   USA / Australia / Canada / UK / Europe
   (third-country resettlement)
@@ -84,10 +84,10 @@ This pathway means Zomi communities are constantly growing in resettlement count
 Accurate tracking is difficult because:
 
 - **No central census** for ethnic Zomi across countries
-- **Different names** — Zomi, Chin, Kuki, Mizo are counted separately
-- **Undocumented refugees** — many in Malaysia and India are not registered
-- **Internal migration** — within Myanmar and India, people move for work
-- **Second-generation** — children born in diaspora may not be counted
+- **Different names** – Zomi, Chin, Kuki, Mizo are counted separately
+- **Undocumented refugees** – many in Malaysia and India are not registered
+- **Internal migration** – within Myanmar and India, people move for work
+- **Second-generation** – children born in diaspora may not be counted
 
 ---
 

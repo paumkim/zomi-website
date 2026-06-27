@@ -2,7 +2,7 @@
 
 ## What is a Particle?
 
-A **particle** is a small word that has no meaning by itself — it only adds grammatical information to the word it attaches to. Think of them like English `'s` (possessive) or `-ing` (progressive) — they don't stand alone.
+A **particle** is a small word that has no meaning by itself – it only adds grammatical information to the word it attaches to. Think of them like English `'s` (possessive) or `-ing` (progressive) – they don't stand alone.
 
 Zomi particles are the **glue** that makes the language work.
 
@@ -20,7 +20,7 @@ Zomi particles are the **glue** that makes the language work.
 | `i-` / `ih-` | we, our (1st person plural) | `i paai` → we go |
 | `ki-` | reflexive, middle voice | `ki paai` → go oneself |
 
-`ki-` is special — it turns a verb into a middle/reflexive form:
+`ki-` is special – it turns a verb into a middle/reflexive form:
 
 | Without `ki-` | With `ki-` |
 |---------------|------------|
@@ -76,17 +76,17 @@ This is the single most important rule in Zomi spelling:
 When a suffix attaches to a **proper name** (person or place), keep the hyphen:
 
 ```
-David'pa     → David's father  (not Davidpa — hard to read)
-David'ta     → David's son     (not Davidta — confusing)
-Egypt-ah     → in Egypt        (not Egyptah — looks wrong)
-Bethlehem-a  → to Bethlehem    (not Bethlehema — merged)
+David'pa     → David's father  (not Davidpa – hard to read)
+David'ta     → David's son     (not Davidta – confusing)
+Egypt-ah     → in Egypt        (not Egyptah – looks wrong)
+Bethlehem-a  → to Bethlehem    (not Bethlehema – merged)
 ```
 
 The hyphen tells the reader: "this suffix belongs to the name, but they're separate words."
 
 ---
 
-## Reduplication — Repeating Words
+## Reduplication – Repeating Words
 
 When a word repeats for emphasis or duration, **merge the repeats**:
 

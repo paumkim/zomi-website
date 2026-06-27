@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 60" width="260" height="60">
+  <defs>
+    <linearGradient id="zomi-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#82AAFF"/>
+      <stop offset="100%" style="stop-color:#89DDFF"/>
+    </linearGradient>
+    <linearGradient id="bar-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#89DDFF"/>
+      <stop offset="100%" style="stop-color:#C3E88D"/>
+    </linearGradient>
+  </defs>
+  <!-- Left bar accent -->
+  <rect x="0" y="4" width="4" height="52" rx="2" fill="url(#bar-grad)"/>
+  <!-- Zomi text with accent bar between -->
+  <text x="18" y="42" font-family="'JetBrains Mono',monospace" font-size="32" font-weight="700" fill="url(#zomi-grad)" letter-spacing="-1">Zo꞉mi</text>
+  <!-- Divider dot -->
+  <circle cx="148" cy="30" r="4" fill="#C3E88D" opacity="0.8"/>
+  <!-- Center text -->
+  <text x="164" y="42" font-family="'JetBrains Mono',monospace" font-size="32" font-weight="300" fill="#E6EDF3" letter-spacing="-1">Center</text>
+  <!-- Tagline -->
+  <text x="18" y="56" font-family="'JetBrains Mono',monospace" font-size="9" fill="#8B949E" letter-spacing="2">YOU BELONG HERE REGARDLESS</text>
+</svg>

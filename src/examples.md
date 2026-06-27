@@ -51,11 +51,11 @@ These examples show how Zomi works in real sentences. Each one demonstrates the 
 |------|-----------|---------|
 | Khawmah | Khawm (gathering) + ah (in) | In the gathering |
 | i kikhawmding | i (we) + ki (reflexive) + khawm (gather) + ding (will) | we will gather |
-| hi | — | (statement) |
+| hi | – | (statement) |
 | Tuaah | Tua (that) + ah (at) | There |
-| laam | — | dance (noun) |
+| laam | – | dance (noun) |
 | i laamding | i (we) + laam (dance) + ding (will) | we will dance |
-| hi | — | (statement) |
+| hi | – | (statement) |
 
 **Translation:** *"In the gathering we will meet. There we will dance."*
 
@@ -82,7 +82,7 @@ These examples show how Zomi works in real sentences. Each one demonstrates the 
 
 **Translation:** *"I have fruits and berries."*
 
-**Note:** The `gah` suffix in both words means "hanging fruit." When you say `Singgah le haaigah`, you're listing two different kinds of fruit — the `gah` is part of each word's identity.
+**Note:** The `gah` suffix in both words means "hanging fruit." When you say `Singgah le haaigah`, you're listing two different kinds of fruit – the `gah` is part of each word's identity.
 
 ---
 
@@ -92,7 +92,7 @@ These examples show how Zomi works in real sentences. Each one demonstrates the 
 
 | Zomi | Breakdown | English |
 |------|-----------|---------|
-| Sagih | — | seven |
+| Sagih | – | seven |
 | ni in | ni (day) + in (within) | within days / in seven days |
 | gaamdaiah | gaam (wild) + dai (peaceful?) + ah (to) | to the peaceful country |
 | ka paaiding | ka (I) + paai (go) + ding (will) | I will go |
@@ -117,11 +117,11 @@ These examples show how Zomi works in real sentences. Each one demonstrates the 
 |------|-----------|---------|
 | Ka Topa | ka (my) + Topa (Lord) | My Lord |
 | kiangah | kiang (near/side) + ah (at) | to / before |
-| thumna | — | prayer |
+| thumna | – | prayer |
 | ka neita | ka (I) + nei (have) + ta (already) | I have |
 | Zeisu'n | Zeisu + 'n (agentive) | Jesus (subject) |
 | kei hong it | kei (I/me) + hong (toward) + it (love) | loves me |
-| hi | — | (statement) |
+| hi | – | (statement) |
 
 **Translation:** *"I have prayed to my Lord. Jesus loves me."*
 

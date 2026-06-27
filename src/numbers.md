@@ -17,7 +17,7 @@
 
 ## Tens, Hundreds, Thousands
 
-Zomi numbers build like **Lego blocks** — each prefix snaps onto the base:
+Zomi numbers build like **Lego blocks** – each prefix snaps onto the base:
 
 | Value | Zomi | Breakdown |
 |-------|------|-----------|
@@ -50,7 +50,7 @@ Zomi numbers build like **Lego blocks** — each prefix snaps onto the base:
 | `tan-` / `tam-` | million | `tankhat` (1,000,000) |
 
 **Sound change:** `za-` becomes `zah-` before certain numbers (thuum, lii, ngaa).  
-This is a natural smoothing — `za + thuum` → `zahthuum` (easier to say).
+This is a natural smoothing – `za + thuum` → `zahthuum` (easier to say).
 
 ## Example Numbers in Context
 

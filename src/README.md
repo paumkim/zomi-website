@@ -1,6 +1,6 @@
 # Zomi Dataset 🔥
 
-**The largest Zomi (Tedim/Zo) language dataset ever assembled — 3M+ sentences, 211M+ characters, 36K+ unique words.**
+**The largest Zomi (Tedim/Zo) language dataset ever assembled – 3M+ sentences, 211M+ characters, 36K+ unique words.**
 
 A comprehensive collection for NLP, AI training, and language preservation.
 
@@ -61,7 +61,7 @@ The corpus is split into 4 parts (each under 100MB for GitHub):
 
 ## 🔧 Normalizer
 
-**`normalize/normalizer.py`** — 400+ lines of Zomi spelling rules:
+**`normalize/normalizer.py`** – 400+ lines of Zomi spelling rules:
 
 | Rule | Example |
 |------|---------|
@@ -116,16 +116,16 @@ numbers, example texts, golden textbooks, and the Tedim Bible downloads.
 ## 🤖 AI Training
 
 This dataset is ready for:
-- **LLM fine-tuning** — train any model (Llama, Qwen, Gemma) to speak Zomi
-- **Tokenizers** — build a Zomi-specific tokenizer
-- **Translation models** — paired English-Zomi data included
-- **Text-to-speech** — the clean corpus is pronunciation-ready
-- **Spell-checking** — the normalizer shows how Zomi spelling works
-- **Music AI** — 1,000+ songs with key, BPM, and time signature metadata
+- **LLM fine-tuning** – train any model (Llama, Qwen, Gemma) to speak Zomi
+- **Tokenizers** – build a Zomi-specific tokenizer
+- **Translation models** – paired English-Zomi data included
+- **Text-to-speech** – the clean corpus is pronunciation-ready
+- **Spell-checking** – the normalizer shows how Zomi spelling works
+- **Music AI** – 1,000+ songs with key, BPM, and time signature metadata
 
 ## 🙏 Acknowledgments
 
-Built by **Paumkim** with the dream of **Cingno AI** — a Zomi language AI assistant.
+Built by **Paumkim** with the dream of **Cingno AI** – a Zomi language AI assistant.
 All sources are publicly available, collected from the open web for the
 preservation and advancement of the Zomi (Tedim) language.
 
