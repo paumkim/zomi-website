@@ -41,4 +41,15 @@ ki khawm →  kikhawm
 
 ---
 
+---
+
+## 🤝 Support Zomi AI
+
+Zomi AI is a community effort — no funding, no grants, just passion.
+If this work matters to you, every bit helps keep the training running.
+
+[**❤️ Support on GoFundMe**](https://www.gofundme.com/f/zomi-zolai-zopau?attribution_id=a6f2a24f-9569-405e-aabf-92efec33807a)
+
+---
+
 *Dammaw! 🔥*
